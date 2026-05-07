@@ -79,3 +79,4 @@ Which of the following must be specified when launching a new Amazon Elastic Com
 
 **Answer:**  
 **Amazon Machine Image (AMI)**
+**Amazon EC@ instance type**
